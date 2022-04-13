@@ -2,7 +2,7 @@
 
 This repo contains / will contain the relevant code behind the following academic publications (in chronological order) concerning the analysis of online debates from the perspectives of, e.g. complex networks, argumentation theory and natural language processing. We begin with debates from [Kialo](https://www.kialo.com/), as its moderation policies result in a relatively clean dataset.
 
-  * Young, A.P., Joglekar, S., Garimella, K. and Sastry, N., 2018, September. **Approximations to truth in online comment networks**. In Proceedings of the Workshop on Argumentation and Society at the 7th International Conference on Computational Models of Argument. Paper available [here](https://nishrs.github.io/publication/young-2018-comma/)
+  * Young, A.P., Joglekar, S., Garimella, K. and Sastry, N., 2018, September. **Approximations to truth in online comment networks** (extended abstract). In Proceedings of the Workshop on Argumentation and Society at the 7th International Conference on Computational Models of Argument. Paper available [here](https://nishrs.github.io/publication/young-2018-comma/)
 
   * Young, A.P., Joglekar, S., Boschi, G. and Sastry, N., 2021. **Ranking comment sorting policies in online debates**. Argument & Computation, 12(2), pp.265-285. Paper available [here](https://content.iospress.com/articles/argument-and-computation/aac200909)
 
