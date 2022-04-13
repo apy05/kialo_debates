@@ -8,7 +8,7 @@ This repo contains / will contain the relevant code behind the following academi
 
   * Boschi, G., Young, A.P., Joglekar, S., Cammarota, C. and Sastry, N., 2021. **Who has the last word? Understanding how to sample online discussions**. ACM Transactions on the Web (TWEB), 15(3), pp.1-25. Preprint available [here](https://arxiv.org/abs/1906.04148). Paper available [here](https://dl.acm.org/doi/abs/10.1145/3452936)
 
-  * Young, A.P., 2021. **Likes as Argument Strength for Online Debates** (extended abstract). In The Third Workshop on Argument Strength. Abstract available [here](http://argstrength2021.argumentationcompetition.org/papers/ArgStrength2021_paper_8.pdf)
+  * Young, A.P., 2021. **Likes as Argument Strength for Online Debates** (extended abstract). In The Third Workshop on Argument Strength. Abstract available [here](http://argstrength2021.argumentationcompetition.org/papers/ArgStrength2021_paper_8.pdf).
 
   * Agarwal, V., Joglekar, S., Young, A.P. and Sastry, N., 2022. **GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates**. Preprint available [here](https://arxiv.org/abs/2202.08175). To appear at The ACM Web Conference 2022 (please cite the full paper after publication).
 
