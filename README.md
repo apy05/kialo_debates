@@ -10,6 +10,6 @@ This repo contains / will contain the relevant code behind the following academi
 
   * Young, A.P., 2021. **Likes as Argument Strength for Online Debates** (extended abstract). In The Third Workshop on Argument Strength. Abstract available [here](http://argstrength2021.argumentationcompetition.org/papers/ArgStrength2021_paper_8.pdf).
 
-  * Agarwal, V., Joglekar, S., Young, A.P. and Sastry, N., 2022. **GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates**. Preprint available [here](https://arxiv.org/abs/2202.08175). To appear at The ACM Web Conference 2022 (please cite the full paper after publication).
+  * Agarwal, V., Joglekar, S., Young, A.P. and Sastry, N., 2022. **GraphNLI: A Graph-based Natural Language Inference Model for Polarity Prediction in Online Debates**. Preprint available [here](https://arxiv.org/abs/2202.08175). To appear at The ACM Web Conference 2022 (please cite the full paper after publication). GitHub [link](https://github.com/vibhor98/GraphNLI).
 
 All links were last accessed 13 April 2022.
